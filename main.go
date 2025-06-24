@@ -12,8 +12,8 @@ func main() {
 }
 
 func value()int{
-val1:=2
-val2:=3
+val1:=4
+val2:=90
 result:=val1+val2
 return result
 
