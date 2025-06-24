@@ -9,6 +9,9 @@ func main() {
 	fmt.Println(value())
 	fmt.Println(value())
 	fmt.Println(value())
+	fmt.Println(value())
+	fmt.Println(value())
+	fmt.Println(value())
 }
 
 func value()int{
