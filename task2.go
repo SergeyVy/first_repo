@@ -16,10 +16,10 @@ func mergeAndSort(arr1, arr2[]int)[]int{
 
 func main(){
 	
-	arr1 :=[]int{3,1,5,6,-2,75,75,675,}
-	arr2 :=[]int{2,4,6,3,6656588998,-4545}
+	// arr1 :=[]int{3,1,5,6,-2,75,75,675,}
+	// arr2 :=[]int{2,4,6,3,6656588998,-4545}
 
-	fmt.Println(mergeAndSort(arr1,arr2))
+	fmt.Println(mergeAndSort([]int{1,3,5},[]int{2,4,6}))
 
 
 
