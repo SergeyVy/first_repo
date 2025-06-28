@@ -31,8 +31,6 @@ func secondMax(numbers []int) (int, error) {
 }
 
 func main() {
-
-
 result, err := secondMax([]int{2, 5, 6, 8, 9})
 	if err != nil {
 		fmt.Println("Ошибка:", err)
