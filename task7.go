@@ -1,23 +1,23 @@
-package main
+// package main
 
-import(
-	"fmt"
-)
+// import(
+// 	"fmt"
+// )
 
-func sumToN(n int)int{
+// func sumToN(n int)int{
 
-sum:=0
+// sum:=0
 
-for i := 0; i <= n; i++ {
-sum+=i
-}
-return sum
+// for i := 0; i <= n; i++ {
+// sum+=i
+// }
+// return sum
 
-}
+// }
 
-func main(){
+// func main(){
 
-fmt.Println(sumToN(5))
-fmt.Println(sumToN(10))
+// fmt.Println(sumToN(5))
+// fmt.Println(sumToN(10))
 
-}
+// }
