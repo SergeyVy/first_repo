@@ -1,18 +1,18 @@
-package main
+// package main
 
-import(
-	"fmt"
-)
+// import(
+// 	"fmt"
+// )
 
-func swap(a,b *int){
+// func swap(a,b *int){
 
-	temp:=*a
-	*a=*b
-	*b=temp
-}
+// 	temp:=*a
+// 	*a=*b
+// 	*b=temp
+// }
 
-func main(){
-	x,y:=10,20
-	swap(&x,&y)
-	fmt.Println(x,y)
-}
+// func main(){
+// 	x,y:=10,20
+// 	swap(&x,&y)
+// 	fmt.Println(x,y)
+// }
